@@ -1,0 +1,21 @@
+[
+  {
+    "movieId": 1,
+  "title": "The danger of man",
+  "movieUrl": "./assets/image/2.jpeg",
+  "prodYear": 2014
+},
+{
+  "movieId":2,
+  "title": "The end of the magic",
+  "movieUrl": "./assets/image/1.jpeg",
+  "prodYear": 2015
+},
+{
+  "movieId":3,
+  "title": "What is the purpose",
+  "movieUrl": "./assets/image/2.jpeg",
+  "prodYear": 2015
+}
+
+]
